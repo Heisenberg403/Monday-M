@@ -1,0 +1,12 @@
+body * {
+    color:          #db4e4ee0;
+    background:     rgba(17, 17, 17, 0.88);
+    outline: 0.25rem solid hsla(210, 100%, 100%, 0.50);
+
+}
+
+.debug-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
